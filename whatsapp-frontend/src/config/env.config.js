@@ -1,0 +1,8 @@
+
+
+
+export const CLOUDINARY_CLOUD_NAME = import.meta.env.VITE_CLOUDINARY_CLOUD_NAME
+export const CLOUDINARY_CLOUD_PRESET = import.meta.env.VITE_CLOUDINARY_CLOUD_PRESET
+export const REACT_APP_API_ENDPOINT = import.meta.env.VITE_REACT_APP_API_ENDPOINT
+
+
